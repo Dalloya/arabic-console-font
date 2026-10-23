@@ -1,5 +1,7 @@
 # Arabic console font
 
+**[العربية](README.ar.md)** | English
+
 A bitmap console font that makes Arabic readable on the Linux kernel text console, in
 two sizes: **8x16** and **16x32**.
 
